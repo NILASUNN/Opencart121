@@ -1,0 +1,381 @@
+2026-03-07 18:57:24 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2026-03-07 18:57:24 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2026-03-07 18:57:24 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-03-07 18:57:24 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-03-07 18:57:24 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-03-07 18:57:24 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-03-07 18:57:24 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-03-07 18:57:24 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-03-07 18:57:24 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 4 ms.
+2026-03-07 18:57:24 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 9 ms.
+2026-03-07 18:57:24 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-03-07 18:57:24 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-03-07 18:57:24 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-03-07 18:57:24 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-03-07 18:57:24 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-03-07 18:57:24 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-03-07 18:57:24 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-03-07 18:57:24 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-03-07 18:57:24 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-03-07 18:57:24 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-03-07 18:57:24 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-03-07 18:57:24 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-03-07 18:57:24 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-03-07 18:57:24 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-03-07 18:57:24 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-03-07 18:57:24 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2026-03-07 18:57:24 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-03-07 18:57:24 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-03-07 18:57:24 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-03-07 18:57:24 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-03-07 18:57:24 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\ABINAYA\AppData\Local\Temp\testng-eclipse--526848104\testng-customsuite.xml
+
+2026-03-07 18:57:24 INFO  Utils:112 - [Utils] DynamicGraphHelper.createDynamicGraph() took 3 ms.
+2026-03-07 18:57:29 INFO  TC001_AccountRegistrationTest:22 - *** Starting TC001_AccountRegistrationTest ***
+2026-03-07 18:57:29 INFO  TC001_AccountRegistrationTest:28 - Clicked on MyAccount link
+2026-03-07 18:57:29 INFO  TC001_AccountRegistrationTest:30 - Clicked on MyRegister link
+2026-03-07 18:57:29 INFO  TC001_AccountRegistrationTest:33 - Providing customer details
+2026-03-07 18:57:30 INFO  TC001_AccountRegistrationTest:46 - Validating expected msg
+2026-03-07 18:57:30 INFO  TC001_AccountRegistrationTest:54 - *** Finshed TC001_AccountRegistrationTest ***
+2026-03-07 18:57:31 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.jq.Main@2787de58: 56 ms
+2026-03-07 18:57:31 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.FailedReporter@426e505c: 2 ms
+2026-03-07 18:57:31 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.XMLReporter@6d4a65c6: 6 ms
+2026-03-07 18:57:31 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@27b71f50: 6 ms
+2026-03-07 18:57:31 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@4d0b0fd4: 6 ms
+2026-03-07 18:57:31 INFO  Utils:112 - [TestNG] Time taken by org.testng.internal.ExitCodeListener@7a24eb3: 0 ms
+2026-03-07 19:13:07 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\ABINAYA\AppData\Local\Temp\testng-eclipse-1634590186\testng-customsuite.xml"
+2026-03-07 19:13:08 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-03-07 19:13:08 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2026-03-07 19:13:08 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-03-07 19:13:08 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-03-07 19:13:08 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-03-07 19:13:08 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-03-07 19:13:08 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-03-07 19:13:08 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-03-07 19:13:08 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 4 ms.
+2026-03-07 19:13:08 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 6 ms.
+2026-03-07 19:13:08 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-03-07 19:13:08 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2026-03-07 19:13:08 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-03-07 19:13:08 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-03-07 19:13:08 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-03-07 19:13:08 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-03-07 19:13:08 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-03-07 19:13:08 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-03-07 19:13:08 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-03-07 19:13:08 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-03-07 19:13:08 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-03-07 19:13:08 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-03-07 19:13:08 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-03-07 19:13:08 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-03-07 19:13:08 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2026-03-07 19:13:08 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-03-07 19:13:08 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-03-07 19:13:08 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-03-07 19:13:08 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-03-07 19:13:08 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-03-07 19:13:08 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\ABINAYA\AppData\Local\Temp\testng-eclipse-1634590186\testng-customsuite.xml
+
+2026-03-07 19:13:08 INFO  Utils:112 - [Utils] DynamicGraphHelper.createDynamicGraph() took 4 ms.
+2026-03-07 19:13:10 INFO  TC001_AccountRegistrationTest:22 - *** Starting TC001_AccountRegistrationTest ***
+2026-03-07 19:13:10 INFO  TC001_AccountRegistrationTest:28 - Clicked on MyAccount link
+2026-03-07 19:13:10 INFO  TC001_AccountRegistrationTest:30 - Clicked on MyRegister link
+2026-03-07 19:13:10 INFO  TC001_AccountRegistrationTest:33 - Providing customer details
+2026-03-07 19:13:11 INFO  TC001_AccountRegistrationTest:46 - Validating expected msg
+2026-03-07 19:13:11 ERROR TC001_AccountRegistrationTest:54 - Test Failed...
+2026-03-07 19:13:11 DEBUG TC001_AccountRegistrationTest:55 - Debug logs...
+2026-03-07 19:13:12 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.jq.Main@6b587673: 46 ms
+2026-03-07 19:13:12 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.FailedReporter@ecfbe91: 10 ms
+2026-03-07 19:13:12 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.XMLReporter@66e889df: 7 ms
+2026-03-07 19:13:12 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@748fe51d: 7 ms
+2026-03-07 19:13:12 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@1965539b: 8 ms
+2026-03-07 19:13:12 INFO  Utils:112 - [TestNG] Time taken by org.testng.internal.ExitCodeListener@2fc07784: 0 ms
+2026-03-08 12:08:27 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\ABINAYA\eclipse-workspace\Opencart121\master.xml"
+2026-03-08 12:08:27 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\ABINAYA\eclipse-workspace\Opencart121\master.xml
+
+2026-03-08 12:08:31 INFO  TC001_AccountRegistrationTest:22 - *** Starting TC001_AccountRegistrationTest ***
+2026-03-08 12:08:31 INFO  TC001_AccountRegistrationTest:28 - Clicked on MyAccount link
+2026-03-08 12:08:32 INFO  TC001_AccountRegistrationTest:30 - Clicked on MyRegister link
+2026-03-08 12:08:32 INFO  TC001_AccountRegistrationTest:33 - Providing customer details
+2026-03-08 12:08:33 INFO  TC001_AccountRegistrationTest:46 - Validating expected msg
+2026-03-08 12:08:33 ERROR TC001_AccountRegistrationTest:54 - Test Failed...
+2026-03-08 12:08:33 DEBUG TC001_AccountRegistrationTest:55 - Debug logs...
+2026-03-08 12:09:04 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\ABINAYA\eclipse-workspace\Opencart121\master.xml"
+2026-03-08 12:09:05 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\ABINAYA\eclipse-workspace\Opencart121\master.xml
+
+2026-03-08 12:09:08 INFO  TC001_AccountRegistrationTest:22 - *** Starting TC001_AccountRegistrationTest ***
+2026-03-08 12:09:08 INFO  TC001_AccountRegistrationTest:28 - Clicked on MyAccount link
+2026-03-08 12:09:09 INFO  TC001_AccountRegistrationTest:30 - Clicked on MyRegister link
+2026-03-08 12:09:09 INFO  TC001_AccountRegistrationTest:33 - Providing customer details
+2026-03-08 12:09:11 INFO  TC001_AccountRegistrationTest:46 - Validating expected msg
+2026-03-08 12:09:11 INFO  TC001_AccountRegistrationTest:62 - *** Finshed TC001_AccountRegistrationTest ***
+2026-03-08 12:13:43 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\ABINAYA\eclipse-workspace\Opencart121\crossbrowsertesting.xml"
+2026-03-08 12:13:44 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\ABINAYA\eclipse-workspace\Opencart121\crossbrowsertesting.xml
+
+2026-03-08 12:13:46 INFO  TC001_AccountRegistrationTest:22 - *** Starting TC001_AccountRegistrationTest ***
+2026-03-08 12:13:47 INFO  TC001_AccountRegistrationTest:28 - Clicked on MyAccount link
+2026-03-08 12:13:47 INFO  TC001_AccountRegistrationTest:30 - Clicked on MyRegister link
+2026-03-08 12:13:47 INFO  TC001_AccountRegistrationTest:33 - Providing customer details
+2026-03-08 12:13:48 INFO  TC001_AccountRegistrationTest:46 - Validating expected msg
+2026-03-08 12:13:48 INFO  TC001_AccountRegistrationTest:62 - *** Finshed TC001_AccountRegistrationTest ***
+2026-03-08 12:13:54 INFO  TC001_AccountRegistrationTest:22 - *** Starting TC001_AccountRegistrationTest ***
+2026-03-08 12:13:55 INFO  TC001_AccountRegistrationTest:28 - Clicked on MyAccount link
+2026-03-08 12:13:56 INFO  TC001_AccountRegistrationTest:30 - Clicked on MyRegister link
+2026-03-08 12:13:56 INFO  TC001_AccountRegistrationTest:33 - Providing customer details
+2026-03-08 12:13:58 INFO  TC001_AccountRegistrationTest:46 - Validating expected msg
+2026-03-08 12:13:58 INFO  TC001_AccountRegistrationTest:62 - *** Finshed TC001_AccountRegistrationTest ***
+2026-03-08 12:15:56 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\ABINAYA\eclipse-workspace\Opencart121\crossbrowsertesting.xml"
+2026-03-08 12:15:57 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\ABINAYA\eclipse-workspace\Opencart121\crossbrowsertesting.xml
+
+2026-03-08 12:16:00 INFO  TC001_AccountRegistrationTest:22 - *** Starting TC001_AccountRegistrationTest ***
+2026-03-08 12:16:00 INFO  TC001_AccountRegistrationTest:28 - Clicked on MyAccount link
+2026-03-08 12:16:00 INFO  TC001_AccountRegistrationTest:30 - Clicked on MyRegister link
+2026-03-08 12:16:00 INFO  TC001_AccountRegistrationTest:33 - Providing customer details
+2026-03-08 12:16:02 INFO  TC001_AccountRegistrationTest:46 - Validating expected msg
+2026-03-08 12:16:02 INFO  TC001_AccountRegistrationTest:62 - *** Finshed TC001_AccountRegistrationTest ***
+2026-03-08 12:16:08 INFO  TC001_AccountRegistrationTest:22 - *** Starting TC001_AccountRegistrationTest ***
+2026-03-08 12:16:08 INFO  TC001_AccountRegistrationTest:28 - Clicked on MyAccount link
+2026-03-08 12:16:09 INFO  TC001_AccountRegistrationTest:30 - Clicked on MyRegister link
+2026-03-08 12:16:09 INFO  TC001_AccountRegistrationTest:33 - Providing customer details
+2026-03-08 12:16:10 INFO  TC001_AccountRegistrationTest:46 - Validating expected msg
+2026-03-08 12:16:10 INFO  TC001_AccountRegistrationTest:62 - *** Finshed TC001_AccountRegistrationTest ***
+2026-03-08 12:16:13 INFO  TC001_AccountRegistrationTest:22 - *** Starting TC001_AccountRegistrationTest ***
+2026-03-08 12:16:13 INFO  TC001_AccountRegistrationTest:28 - Clicked on MyAccount link
+2026-03-08 12:16:13 INFO  TC001_AccountRegistrationTest:30 - Clicked on MyRegister link
+2026-03-08 12:16:13 INFO  TC001_AccountRegistrationTest:33 - Providing customer details
+2026-03-08 12:16:15 INFO  TC001_AccountRegistrationTest:46 - Validating expected msg
+2026-03-08 12:16:15 INFO  TC001_AccountRegistrationTest:62 - *** Finshed TC001_AccountRegistrationTest ***
+2026-03-08 12:33:28 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\ABINAYA\eclipse-workspace\Opencart121\master.xml"
+2026-03-08 12:33:28 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\ABINAYA\eclipse-workspace\Opencart121\master.xml
+
+2026-03-08 12:34:14 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\ABINAYA\eclipse-workspace\Opencart121\master.xml"
+2026-03-08 12:34:14 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\ABINAYA\eclipse-workspace\Opencart121\master.xml
+
+2026-03-08 12:39:19 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\ABINAYA\eclipse-workspace\Opencart121\master.xml"
+2026-03-08 12:39:19 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\ABINAYA\eclipse-workspace\Opencart121\master.xml
+
+2026-03-08 12:39:22 INFO  TC001_AccountRegistrationTest:22 - *** Starting TC001_AccountRegistrationTest ***
+2026-03-08 12:39:23 INFO  TC001_AccountRegistrationTest:28 - Clicked on MyAccount link
+2026-03-08 12:39:23 INFO  TC001_AccountRegistrationTest:30 - Clicked on MyRegister link
+2026-03-08 12:39:23 INFO  TC001_AccountRegistrationTest:33 - Providing customer details
+2026-03-08 12:39:24 INFO  TC001_AccountRegistrationTest:46 - Validating expected msg
+2026-03-08 12:39:24 INFO  TC001_AccountRegistrationTest:62 - *** Finshed TC001_AccountRegistrationTest ***
+2026-03-08 12:41:01 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\ABINAYA\eclipse-workspace\Opencart121\master.xml"
+2026-03-08 12:41:01 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\ABINAYA\eclipse-workspace\Opencart121\master.xml
+
+2026-03-08 12:41:04 INFO  TC001_AccountRegistrationTest:22 - *** Starting TC001_AccountRegistrationTest ***
+2026-03-08 12:41:04 INFO  TC001_AccountRegistrationTest:28 - Clicked on MyAccount link
+2026-03-08 12:41:05 INFO  TC001_AccountRegistrationTest:30 - Clicked on MyRegister link
+2026-03-08 12:41:05 INFO  TC001_AccountRegistrationTest:33 - Providing customer details
+2026-03-08 12:41:06 INFO  TC001_AccountRegistrationTest:46 - Validating expected msg
+2026-03-08 12:41:06 INFO  TC001_AccountRegistrationTest:62 - *** Finshed TC001_AccountRegistrationTest ***
+2026-03-08 13:19:28 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\ABINAYA\eclipse-workspace\Opencart121\master.xml"
+2026-03-08 13:19:28 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\ABINAYA\eclipse-workspace\Opencart121\master.xml
+
+2026-03-08 13:19:33 INFO  TC002_LoginTest:15 - *** Starting TC002_LoginTest ***
+2026-03-08 13:19:34 INFO  TC002_LoginTest:37 - *** Finshed TC002_LoginTest ***
+2026-03-09 15:57:16 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\ABINAYA\eclipse-workspace\Opencart121\master.xml"
+2026-03-09 15:57:16 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\ABINAYA\eclipse-workspace\Opencart121\master.xml
+
+2026-03-09 15:58:07 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\ABINAYA\eclipse-workspace\Opencart121\master.xml"
+2026-03-09 15:58:07 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\ABINAYA\eclipse-workspace\Opencart121\master.xml
+
+2026-03-09 16:03:01 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\ABINAYA\eclipse-workspace\Opencart121\master.xml"
+2026-03-09 16:03:02 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\ABINAYA\eclipse-workspace\Opencart121\master.xml
+
+2026-03-09 16:03:04 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2026-03-09 16:03:04 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2026-03-09 16:03:04 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2026-03-09 16:03:04 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2026-03-09 16:03:04 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2026-03-09 16:03:04 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2026-03-09 16:03:04 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2026-03-09 16:03:04 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2026-03-09 16:03:04 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2026-03-09 16:03:04 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2026-03-09 16:03:04 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2026-03-09 16:03:04 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2026-03-09 16:03:04 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2026-03-09 16:03:04 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2026-03-09 16:03:04 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2026-03-09 16:03:04 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2026-03-09 16:03:04 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2026-03-09 16:03:04 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2026-03-09 16:03:04 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2026-03-09 16:03:04 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2026-03-09 16:03:04 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2026-03-09 16:03:04 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2026-03-09 16:03:04 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2026-03-09 16:03:04 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2026-03-09 16:03:04 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2026-03-09 16:03:04 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2026-03-09 16:03:04 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2026-03-09 16:03:04 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2026-03-09 16:03:04 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2026-03-09 16:03:04 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2026-03-09 16:03:05 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2026-03-09 16:03:05 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2026-03-09 16:03:05 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2026-03-09 16:03:05 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2026-03-09 16:03:05 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2026-03-09 16:03:05 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2026-03-09 16:03:05 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2026-03-09 16:03:05 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2026-03-09 16:03:05 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2026-03-09 16:03:05 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2026-03-09 16:03:05 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2026-03-09 16:03:05 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2026-03-09 16:03:05 INFO  TC003_LoginDDT:25 - *** Starting TC003_LoginDDT ***
+2026-03-09 16:03:06 INFO  TC003_LoginDDT:75 - *** Starting TC003_LoginDDT ***
+2026-03-09 16:03:06 INFO  TC003_LoginDDT:25 - *** Starting TC003_LoginDDT ***
+2026-03-09 16:03:17 INFO  TC003_LoginDDT:75 - *** Starting TC003_LoginDDT ***
+2026-03-09 16:03:17 INFO  TC003_LoginDDT:25 - *** Starting TC003_LoginDDT ***
+2026-03-09 16:03:28 INFO  TC003_LoginDDT:75 - *** Starting TC003_LoginDDT ***
+2026-03-09 16:03:28 INFO  TC003_LoginDDT:25 - *** Starting TC003_LoginDDT ***
+2026-03-09 16:03:29 INFO  TC003_LoginDDT:75 - *** Starting TC003_LoginDDT ***
+2026-03-09 16:06:30 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\ABINAYA\eclipse-workspace\Opencart121\master.xml"
+2026-03-09 16:06:30 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\ABINAYA\eclipse-workspace\Opencart121\master.xml
+
+2026-03-09 16:06:33 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2026-03-09 16:06:33 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2026-03-09 16:06:33 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2026-03-09 16:06:33 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2026-03-09 16:06:33 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2026-03-09 16:06:33 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2026-03-09 16:06:33 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2026-03-09 16:06:33 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2026-03-09 16:06:33 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2026-03-09 16:06:33 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2026-03-09 16:06:33 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2026-03-09 16:06:33 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2026-03-09 16:06:33 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2026-03-09 16:06:33 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2026-03-09 16:06:33 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2026-03-09 16:06:33 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2026-03-09 16:06:33 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2026-03-09 16:06:33 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2026-03-09 16:06:33 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2026-03-09 16:06:33 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2026-03-09 16:06:33 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2026-03-09 16:06:33 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2026-03-09 16:06:33 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2026-03-09 16:06:33 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2026-03-09 16:06:33 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2026-03-09 16:06:33 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2026-03-09 16:06:33 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2026-03-09 16:06:33 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2026-03-09 16:06:33 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2026-03-09 16:06:33 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2026-03-09 16:06:33 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2026-03-09 16:06:33 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2026-03-09 16:06:33 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2026-03-09 16:06:33 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2026-03-09 16:06:33 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2026-03-09 16:06:33 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2026-03-09 16:06:33 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2026-03-09 16:06:33 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2026-03-09 16:06:33 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2026-03-09 16:06:33 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2026-03-09 16:06:33 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2026-03-09 16:06:33 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2026-03-09 16:06:33 INFO  TC003_LoginDDT:25 - *** Starting TC003_LoginDDT ***
+2026-03-09 16:06:35 INFO  TC003_LoginDDT:75 - *** Finishing TC003_LoginDDT ***
+2026-03-09 16:06:35 INFO  TC003_LoginDDT:25 - *** Starting TC003_LoginDDT ***
+2026-03-09 16:06:45 INFO  TC003_LoginDDT:75 - *** Finishing TC003_LoginDDT ***
+2026-03-09 16:06:45 INFO  TC003_LoginDDT:25 - *** Starting TC003_LoginDDT ***
+2026-03-09 16:06:56 INFO  TC003_LoginDDT:75 - *** Finishing TC003_LoginDDT ***
+2026-03-09 16:06:56 INFO  TC003_LoginDDT:25 - *** Starting TC003_LoginDDT ***
+2026-03-09 16:06:57 INFO  TC003_LoginDDT:75 - *** Finishing TC003_LoginDDT ***
+2026-03-11 12:35:24 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\ABINAYA\eclipse-workspace\Opencart121\grouping.xml"
+2026-03-11 12:35:24 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\ABINAYA\eclipse-workspace\Opencart121\grouping.xml
+
+2026-03-11 12:35:29 INFO  TC001_AccountRegistrationTest:22 - *** Starting TC001_AccountRegistrationTest ***
+2026-03-11 12:35:29 INFO  TC001_AccountRegistrationTest:28 - Clicked on MyAccount link
+2026-03-11 12:35:30 INFO  TC001_AccountRegistrationTest:30 - Clicked on MyRegister link
+2026-03-11 12:35:30 INFO  TC001_AccountRegistrationTest:33 - Providing customer details
+2026-03-11 12:35:32 INFO  TC001_AccountRegistrationTest:46 - Validating expected msg
+2026-03-11 12:35:32 INFO  TC001_AccountRegistrationTest:62 - *** Finshed TC001_AccountRegistrationTest ***
+2026-03-11 12:35:34 INFO  TC002_LoginTest:15 - *** Starting TC002_LoginTest ***
+2026-03-11 12:35:36 INFO  TC002_LoginTest:37 - *** Finshed TC002_LoginTest ***
+2026-03-11 12:42:38 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\ABINAYA\eclipse-workspace\Opencart121\grouping.xml"
+2026-03-11 12:42:38 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\ABINAYA\eclipse-workspace\Opencart121\grouping.xml
+
+2026-03-11 12:42:42 INFO  TC001_AccountRegistrationTest:22 - *** Starting TC001_AccountRegistrationTest ***
+2026-03-11 12:42:42 INFO  TC001_AccountRegistrationTest:28 - Clicked on MyAccount link
+2026-03-11 12:42:42 INFO  TC001_AccountRegistrationTest:30 - Clicked on MyRegister link
+2026-03-11 12:42:42 INFO  TC001_AccountRegistrationTest:33 - Providing customer details
+2026-03-11 12:42:44 INFO  TC001_AccountRegistrationTest:46 - Validating expected msg
+2026-03-11 12:42:44 INFO  TC001_AccountRegistrationTest:62 - *** Finshed TC001_AccountRegistrationTest ***
+2026-03-11 12:42:46 INFO  TC002_LoginTest:15 - *** Starting TC002_LoginTest ***
+2026-03-11 12:42:48 INFO  TC002_LoginTest:37 - *** Finshed TC002_LoginTest ***
+2026-03-11 13:34:43 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\ABINAYA\eclipse-workspace\Opencart121\grouping.xml"
+2026-03-11 13:35:47 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\ABINAYA\eclipse-workspace\Opencart121\grouping.xml"
+2026-03-11 13:35:48 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\ABINAYA\eclipse-workspace\Opencart121\grouping.xml
+
+2026-03-11 13:35:53 INFO  TC001_AccountRegistrationTest:22 - *** Starting TC001_AccountRegistrationTest ***
+2026-03-11 13:35:53 INFO  TC001_AccountRegistrationTest:28 - Clicked on MyAccount link
+2026-03-11 13:35:54 INFO  TC001_AccountRegistrationTest:30 - Clicked on MyRegister link
+2026-03-11 13:35:54 INFO  TC001_AccountRegistrationTest:33 - Providing customer details
+2026-03-11 13:35:55 INFO  TC001_AccountRegistrationTest:46 - Validating expected msg
+2026-03-11 13:35:56 INFO  TC001_AccountRegistrationTest:62 - *** Finshed TC001_AccountRegistrationTest ***
+2026-03-11 13:35:58 INFO  TC002_LoginTest:15 - *** Starting TC002_LoginTest ***
+2026-03-11 13:36:00 INFO  TC002_LoginTest:37 - *** Finshed TC002_LoginTest ***
+2026-03-11 13:39:16 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\ABINAYA\eclipse-workspace\Opencart121\grouping.xml"
+2026-03-11 13:39:16 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\ABINAYA\eclipse-workspace\Opencart121\grouping.xml
+
+2026-03-11 13:39:21 INFO  TC001_AccountRegistrationTest:22 - *** Starting TC001_AccountRegistrationTest ***
+2026-03-11 13:39:21 INFO  TC001_AccountRegistrationTest:28 - Clicked on MyAccount link
+2026-03-11 13:39:21 INFO  TC001_AccountRegistrationTest:30 - Clicked on MyRegister link
+2026-03-11 13:39:21 INFO  TC001_AccountRegistrationTest:33 - Providing customer details
+2026-03-11 13:39:23 INFO  TC001_AccountRegistrationTest:46 - Validating expected msg
+2026-03-11 13:39:23 INFO  TC001_AccountRegistrationTest:62 - *** Finshed TC001_AccountRegistrationTest ***
+2026-03-11 13:39:25 INFO  TC002_LoginTest:15 - *** Starting TC002_LoginTest ***
+2026-03-11 13:43:21 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\ABINAYA\eclipse-workspace\Opencart121\test-output\testng-failed.xml"
+2026-03-11 13:43:22 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\ABINAYA\eclipse-workspace\Opencart121\test-output\testng-failed.xml
+
+2026-03-11 13:43:26 INFO  TC002_LoginTest:15 - *** Starting TC002_LoginTest ***
+2026-03-11 13:43:28 INFO  TC002_LoginTest:37 - *** Finshed TC002_LoginTest ***
+2026-03-11 18:47:08 INFO  TC001_AccountRegistrationTest:22 - *** Starting TC001_AccountRegistrationTest ***
+2026-03-11 18:47:08 INFO  TC001_AccountRegistrationTest:28 - Clicked on MyAccount link
+2026-03-11 18:47:09 INFO  TC001_AccountRegistrationTest:30 - Clicked on MyRegister link
+2026-03-11 18:47:09 INFO  TC001_AccountRegistrationTest:33 - Providing customer details
+2026-03-11 18:47:10 INFO  TC001_AccountRegistrationTest:46 - Validating expected msg
+2026-03-11 18:47:10 INFO  TC001_AccountRegistrationTest:62 - *** Finshed TC001_AccountRegistrationTest ***
+2026-03-11 18:47:12 INFO  TC002_LoginTest:15 - *** Starting TC002_LoginTest ***
+2026-03-11 18:47:13 INFO  TC002_LoginTest:37 - *** Finshed TC002_LoginTest ***
+2026-03-11 19:00:52 INFO  TC001_AccountRegistrationTest:22 - *** Starting TC001_AccountRegistrationTest ***
+2026-03-11 19:00:52 INFO  TC001_AccountRegistrationTest:28 - Clicked on MyAccount link
+2026-03-11 19:00:52 INFO  TC001_AccountRegistrationTest:30 - Clicked on MyRegister link
+2026-03-11 19:00:52 INFO  TC001_AccountRegistrationTest:33 - Providing customer details
+2026-03-11 19:00:54 INFO  TC001_AccountRegistrationTest:46 - Validating expected msg
+2026-03-11 19:00:54 INFO  TC001_AccountRegistrationTest:62 - *** Finshed TC001_AccountRegistrationTest ***
+2026-03-11 19:00:56 INFO  TC002_LoginTest:15 - *** Starting TC002_LoginTest ***
+2026-03-11 19:00:58 INFO  TC002_LoginTest:37 - *** Finshed TC002_LoginTest ***
+2026-03-11 19:11:32 INFO  TC001_AccountRegistrationTest:22 - *** Starting TC001_AccountRegistrationTest ***
+2026-03-11 19:11:32 INFO  TC001_AccountRegistrationTest:28 - Clicked on MyAccount link
+2026-03-11 19:11:32 INFO  TC001_AccountRegistrationTest:30 - Clicked on MyRegister link
+2026-03-11 19:11:32 INFO  TC001_AccountRegistrationTest:33 - Providing customer details
+2026-03-11 19:11:34 INFO  TC001_AccountRegistrationTest:46 - Validating expected msg
+2026-03-11 19:11:35 INFO  TC001_AccountRegistrationTest:62 - *** Finshed TC001_AccountRegistrationTest ***
+2026-03-11 19:11:37 INFO  TC002_LoginTest:15 - *** Starting TC002_LoginTest ***
+2026-03-11 19:11:39 INFO  TC002_LoginTest:37 - *** Finshed TC002_LoginTest ***
