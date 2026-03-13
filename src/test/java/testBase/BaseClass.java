@@ -11,6 +11,7 @@ import java.util.Properties;
 import org.apache.commons.lang3.RandomStringUtils;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
+import org.openqa.selenium.NoAlertPresentException;
 import org.openqa.selenium.OutputType;
 import org.openqa.selenium.TakesScreenshot;
 import org.openqa.selenium.WebDriver;
@@ -60,6 +61,7 @@ public class BaseClass {
 		driver.quit();
 	}
 	
+	
 	public String randomeString() {
 		String generatedString = RandomStringUtils.randomAlphabetic(5);
 		return generatedString;
@@ -91,4 +93,16 @@ public class BaseClass {
         return targetFile;
 	
 }
+	public void handleAlertIfPresent()
+	{
+	    try
+	    {
+	        driver.switchTo().alert().accept();
+	        logger.info("Alert accepted");
+	    }
+	    catch(NoAlertPresentException e)
+	    {
+	        logger.info("No alert present");
+	    }
+	}
 }
